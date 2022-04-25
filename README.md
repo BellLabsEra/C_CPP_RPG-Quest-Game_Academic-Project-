@@ -3,10 +3,12 @@
 	GT Quest MMXXI FEATURE CHECKLIST
 
 
-Student Name: ___Christopher Semali______
+Student Name: ___Christopher Semali___
+Link to Youtube Vidoe showcasing the Video-Game Demo: https://youtu.be/spUeAvs4yvg
+** Programming files are in the branch
 
 ======================================
-BASIC GAME FUNCTIONALITY
+|      BASIC GAME FUNCTIONALITY	     |
 ======================================
 	__X__  Accelerometer moves the player
 
