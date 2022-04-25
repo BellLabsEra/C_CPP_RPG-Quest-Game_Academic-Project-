@@ -4,7 +4,9 @@
 
 
 Student Name: ___Christopher Semali___
-Link to Youtube Vidoe showcasing the Video-Game Demo: https://youtu.be/spUeAvs4yvg
+Link to Youtube Vidoe showcasing the Video-Game Demo: 
+		
+https://youtu.be/spUeAvs4yvg
 
 BASIC GAME FUNCTIONALITY 
 
