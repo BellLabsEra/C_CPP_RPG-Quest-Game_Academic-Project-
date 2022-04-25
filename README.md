@@ -5,11 +5,9 @@
 
 Student Name: ___Christopher Semali___
 Link to Youtube Vidoe showcasing the Video-Game Demo: https://youtu.be/spUeAvs4yvg
-** Programming files are in the branch
 
-======================================
-|      BASIC GAME FUNCTIONALITY	     |
-======================================
+BASIC GAME FUNCTIONALITY 
+
 	__X__  Accelerometer moves the player
 
 	__X__  Walls block character motion
@@ -35,11 +33,10 @@ Link to Youtube Vidoe showcasing the Video-Game Demo: https://youtu.be/spUeAvs4y
 	__X__  Art include at least one sprite
 
 
-===============================================================================================================================================================================
 
-======================================
-EXTRA FEATURES (choose up to 10):    		[---------- Over 10 Advanced Features --------] ~ checked off by Prof. Wills during office hours
-======================================
+EXTRA FEATURES (choose up to 10):    	
+	[---------- Over 10 Advanced Features --------] ~ checked off by Prof. Wills during office hours
+
 	__X__  Add a start page 
 
 	____  Sound effects for interactions / background music 
@@ -78,7 +75,7 @@ EXTRA FEATURES (choose up to 10):    		[---------- Over 10 Advanced Features ---
 
 	____  Side profile for combat (think of pokemon games combat sequences) : will likely require use of SD card reader. 
 
-	===============================================================================================================================================================================
+=======================================================================================================================================================
 	____  Other: (please describe)
 
 
