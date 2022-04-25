@@ -1,5 +1,6 @@
 # C_CPP_RPG-Quest-Game_Academic-Project-
-		GT Quest MMXXI FEATURE CHECKLIST
+
+	GT Quest MMXXI FEATURE CHECKLIST
 
 
 Student Name: ___Christopher Semali______
@@ -7,7 +8,7 @@ Student Name: ___Christopher Semali______
 ======================================
 BASIC GAME FUNCTIONALITY
 ======================================
-__X__  Accelerometer moves the player
+	__X__  Accelerometer moves the player
 
 __X__  Walls block character motion
 
