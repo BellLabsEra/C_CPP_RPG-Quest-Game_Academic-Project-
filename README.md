@@ -1,11 +1,10 @@
 # C_CPP_RPG-Quest-Game_Academic-Project-
 
-	GT Quest MMXXI FEATURE CHECKLIST
-
+GT ECE 2035 (Programming for Hardware and Software Systems) Quest MMXXI FEATURE CHECKLIST
 
 Student Name: ___Christopher Semali___
 
-	Link to Youtube Video showcasing the Video-Game Demo: 
+# Link to Youtube Video showcasing the Video-Game Demo: 
 		
 [YouTube Video of Gameplay](https://youtu.be/spUeAvs4yvg)
 
@@ -81,36 +80,34 @@ Student Name: ___Christopher Semali___
 
 - [ ]  Side profile for combat (think of Pokemon games combat sequences): will likely require the use of an SD card reader. 
 
-=======================================================================================================================================================
-	- [ ]  Other: (please describe)
+---
+## Other: (please describe)
+- [x]  More than 5 sprites
 
-	- [x]  More than 5 sprites
+- [x]  More than 5 maps
 
-	- [x]  More than 5 maps
-
-	- [ ]_  (5 Characters including, main player, who are incoperated into the Storyline)
-		Cast: 
-			- Player: Jean Micheal Basquiat (Player Icon is a low resolution Pixel representation of the book ocver of 40th anniversery of the Taschen book which has a comaplation of all his works
-			- NPC 1: Dimitrios, God of Art, Craftsmanship, and Illusions
-			- NPC 2: Lost Souls, in the Limbo map (Map with multiple portals)
-			- NPC 3: Hermes, Messanger God 
-			- NPC 4: Muse, didn't specify which of the 7
+- [ ]  (5 Characters including, the main player, who are incorporated into the Storyline)
+	* Cast: 
+		* Player: Jean Micheal Basquiat (Player Icon is a low*resolution Pixel representation of the book cover of the 40th anniversary of the Taschen book which has a compilation of all his works
+		* NPC 1: Dimitrios, God of Art, Craftsmanship, and Illusions
+		* NPC 2: Lost Souls, in the Limbo map (Map with multiple portals)
+		* NPC 3: Hermes, Messanger God 
+		* NPC 4: Muse, didn't specify which of the 7
 
 
-	- [x]  Different GAME-OVER loading screens (One for if you lose all of your lives | The other for if you complete the Game and recieve the Treasure ~ als has a 50x50 pixel Image draw onto the screen)
-		~ 50x50 pixel Image of MF Doom, which is the Cover art on the album  Madvillany 
-			- Image had to manually converted from uint32_t (represneted in hex) -> int (16-bit represented in hex) ~ also does not rely on using a char array, due to the number of different shades used.
-			- In the future, I want to develop a python scrip that does this conversion for me, saving time.
+- [x]  Different GAME-OVER loading screens (One for if you lose all of your lives | The other for if you complete the Game and receive the Treasure ~ also has a 50x50 pixel Image drawn onto the screen)
+	* 50x50 pixel Image of MF Doom, which is the Cover art on the album  Madvillany 
+	* Image had to be manually converted from uint32_t (represented in hex) -> int (16-bit represented in hex) ~ also does not rely on using a char array, due to the number of different shades used.
+	* In the future, I want to develop a Python script that does this conversion for me, saving time.
 
-	- [x]  (should have double checked to see if this may count) LOADING-SCREEN, which is queued when switching maps
-		- (1) Contains an Animation with the loading ellipsis (and holds the loading screen display while (2) occurs)
-		- (2) Backend of Loading Screen: Clears out all of the Map items within the previous map, then sets and Initializes the next map 
-		- (3) Purpose of Development: to optomize the amount of allocated space being used within the game, 
-			since previously it is not possible initialize all maps simultaniously, due to the sheer number of MapItems present within each local map.
-		- () It was my simpler alternative, to manually allocate memory within the 32gb section of the mBed, which was mentioned by Daniel Cooper, in the ECE 2035 groupme,
-			or having to empoly the SD Card, and then wipin the SD card after use
+- [x] LOADING-SCREEN, which is queued when switching maps
+	* (1) Contains an Animation with the loading ellipsis (and holds the loading screen display while (2) occurs)
+	* (2) Backend of Loading Screen: Clears out all of the Map items within the previous map, then sets and Initializes the next map 
+	* (3) Purpose of Development: to optimize the amount of allocated space being used within the game, 
+		since previously it is not possible to initialize all maps simultaneously, due to the sheer number of MapItems present within each local map.
+	* () It was my simpler alternative, to manually allocate memory within the 32 GB section of the mBed, which was mentioned by Daniel Cooper, in the ECE 2035 groupme,
+		or having to employ the SD Card, and then within the SD card after use
 
-	- [ ]  Multiple NPC's / Quests bestowed ~ (1) Dimitrios - overarching mission is to kill the muse (2) Hermes to retrieve God Butcher (a sword the Muse stole from him, however video does not show the return of the sword)
+- [ ] Multiple NPC's / Quests bestowed ~ (1) Dimitrios - overarching mission is to kill the muse (2) Hermes to retrieve God Butcher (a sword the Muse stole from him, however video does not show the return of the sword)
 
-	- [ ]_ There are other features that may or may not count as advanced but is what I recall getting checked off, and is alreay around the 10 mark. 
-		Turing thhis game into a personal project and will have MORE FEATURE TO COME !!!!!!
+- [ ] There are other features that may or may not count as advanced but this is what I recall getting checked off, and is already around the 10 mark. 
