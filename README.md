@@ -4,88 +4,91 @@
 
 
 Student Name: ___Christopher Semali___
-Link to Youtube Vidoe showcasing the Video-Game Demo: 
+
+	Link to Youtube Video showcasing the Video-Game Demo: 
 		
-https://youtu.be/spUeAvs4yvg
+[YouTube Video of Gameplay](https://youtu.be/spUeAvs4yvg)
 
-BASIC GAME FUNCTIONALITY 
+## BASIC GAME FUNCTIONALITY 
 
-	__X__  Accelerometer moves the player
+- [x]  Accelerometer moves the player
 
-	__X__  Walls block character motion
+- [x]  Walls block character motion
 
-	__X__  Omnipotent mode button walks through walls
+- [x]  Omnipotent mode button walks through walls
 
-	__X__  The first Map must be bigger than the screen (at least 50*50 tiles)
+- [x]  The first Map must be bigger than the screen (at least 50*50 tiles)
 
-	__X__  Stairs/ladders/portals/the door go between the first and the second map. 
+- [x]  Stairs/ladders/portals/the door go between the first and the second map. 
 
-	__X__  More than 1 spell to choose from to fight monster (you use the Godbuthcer (a sword) to kill the final Boss)
+- [x]  More than 1 spell to choose from to fight the monster (you use the Godbuthcer (a sword) to kill the final Boss)
 
-	__X__  Dialogue box presents when casting spell 
+- [x]  Dialogue box presents when casting a spell 
 
-	__X__  Quest works (key & door work)
+- [x]  Quest works (key & door work)
 
-	__X__  Display Game Over when quest complete
+- [x]  Display Game Over when quest complete
 
-	__X__  Status bar shows player coordinates
+- [x]  Status bar shows player coordinates
 
-	__X__  Speech bubbles used in quest
+- [x]  Speech bubbles used in the quest
 
-	__X__  Art include at least one sprite
+- [x]  Art includes at least one sprite
 
+---
+## EXTRA FEATURES (choose up to 10):    	
+* I made over 10 Advanced Features, which Prof. Wills checked off during office hours
 
+- [x]  Add a start page 
 
-EXTRA FEATURES (choose up to 10):    	
-	[---------- Over 10 Advanced Features --------] ~ checked off by Prof. Wills during office hours
+- [ ]  Sound effects for interactions/background music 
 
-	__X__  Add a start page 
+- [x]  Different modes of locomotion (e.g., running, hopping, etc. ) They should be visually distinctive.
+  * Trailing Clouds
 
-	____  Sound effects for interactions / background music 
+- [x]  Animation for interactions with things on the map
+  * Waves Flooding Poesidon's Room in the Third Map Present
 
-	__X__  Different modes of locomotion (e.g., running, hopping, etc. ) They should be visually distinctive. [---------------Trailing Clouds--------------]
+- [ ]  In-game menu: 
+* Save the game 
+* Show status information 
+* Configuration (Accelerometer direction, which button is which, etc.) 
 
-	__X__  Animation for interactions with things in the map   [---------------Waves Flooding Poesidon's Room in the Third Map Present--------------]
+- [x]  In-game inventory with useable items
+  * Bottom Panel alongside the Lower Status bar
 
-	____  In-game menu: 
-		•  Save the game 
-		•  Show status information 
-		•  Configuration (Accelerometer direction, which button is which, etc.) 
+- [x]  Multiple lives and the possibility of loss:       
+  * Health & stuff that hurts you. 
+  * indicated with both the lower Status bar w/ Live: # and the Health bar to the right of "#" (the number of remaining lives the player has) 
 
-	__X__  In game inventory with useable items [-------Bottom Panel along side the Lower Status bar-------------]
+- [x]  Mobile (walking) NPCs or monsters.
+  * Lost Souls (x4) in Limbo map (World Between Worlds)
 
-	__X__  Multiple lives and the possibility to lose:       
-		•  Health & stuff that hurts you. 
-		[-------indicated with both the lower Status bar w/ Live: # and the Health bar to the right of "#" (the number of remaining lives the player has) --------]
+- [ ]  Save the game (persistent over power-off) 
 
+- [ ]  Bigger objects in the map that blocks the character.
+  * A very tall tree that hides the character. 
+  * A feature you can walk behind/under such as a bridge. 
 
-	__X__  Mobile (walking) NPCs or monster. [-----Lost Souls (x4) in Limbo map (World between Worlds)--------]
+- [x]  Multiple enemies to defeat
+  * Lost Souls and Muse, but the Muse is the main one, that needs to be defeated in order to complete the quest
+  * User can complete the game without killing lost souls ( but they can deal damage to you whenever they pass through you)
 
-	____  Save the game (persistent over power-off) 
+- [ ]  Throwable combat items  
+  * Animated dagger/spells 
 
-	____  Bigger objects in the map that blocks the character.
-		•  A very tall tree that hides the character. 
-		•  A feature you can walk behind/under such as a bridge. 
+- [x]  Turn-based combat menus 
 
-	__X__  Multiple enemies to defeat  [-------Lost Souls and Muse, but the Muse is the main one, that needs to be defeated in order to complete the quest ------]
-		- can complete game without killing lost souls ( but they can deal damage to you whener they pas through you)
-
-	____  Throwable combat items  
-		•  Animated dagger/spells 
-
-	__X__  Turn based combat menus 
-
-	____  Side profile for combat (think of pokemon games combat sequences) : will likely require use of SD card reader. 
+- [ ]  Side profile for combat (think of Pokemon games combat sequences): will likely require the use of an SD card reader. 
 
 =======================================================================================================================================================
-	____  Other: (please describe)
+	- [ ]  Other: (please describe)
 
+	- [x]  More than 5 sprites
 
-	__X__  More than 5 sprites
+	- [x]  More than 5 maps
 
-	__X__  More than 5 maps
-
-	_____  (5 Characters including, main player, who are incoperated into the Storyline)
+	- [ ]_  (5 Characters including, main player, who are incoperated into the Storyline)
 		Cast: 
 			- Player: Jean Micheal Basquiat (Player Icon is a low resolution Pixel representation of the book ocver of 40th anniversery of the Taschen book which has a comaplation of all his works
 			- NPC 1: Dimitrios, God of Art, Craftsmanship, and Illusions
@@ -94,12 +97,12 @@ EXTRA FEATURES (choose up to 10):
 			- NPC 4: Muse, didn't specify which of the 7
 
 
-	__X__  Different GAME-OVER loading screens (One for if you lose all of your lives | The other for if you complete the Game and recieve the Treasure ~ als has a 50x50 pixel Image draw onto the screen)
+	- [x]  Different GAME-OVER loading screens (One for if you lose all of your lives | The other for if you complete the Game and recieve the Treasure ~ als has a 50x50 pixel Image draw onto the screen)
 		~ 50x50 pixel Image of MF Doom, which is the Cover art on the album  Madvillany 
 			- Image had to manually converted from uint32_t (represneted in hex) -> int (16-bit represented in hex) ~ also does not rely on using a char array, due to the number of different shades used.
 			- In the future, I want to develop a python scrip that does this conversion for me, saving time.
 
-	__X__  (should have double checked to see if this may count) LOADING-SCREEN, which is queued when switching maps
+	- [x]  (should have double checked to see if this may count) LOADING-SCREEN, which is queued when switching maps
 		- (1) Contains an Animation with the loading ellipsis (and holds the loading screen display while (2) occurs)
 		- (2) Backend of Loading Screen: Clears out all of the Map items within the previous map, then sets and Initializes the next map 
 		- (3) Purpose of Development: to optomize the amount of allocated space being used within the game, 
@@ -107,7 +110,7 @@ EXTRA FEATURES (choose up to 10):
 		- () It was my simpler alternative, to manually allocate memory within the 32gb section of the mBed, which was mentioned by Daniel Cooper, in the ECE 2035 groupme,
 			or having to empoly the SD Card, and then wipin the SD card after use
 
-	____  Multiple NPC's / Quests bestowed ~ (1) Dimitrios - overarching mission is to kill the muse (2) Hermes to retrieve God Butcher (a sword the Muse stole from him, however video does not show the return of the sword)
+	- [ ]  Multiple NPC's / Quests bestowed ~ (1) Dimitrios - overarching mission is to kill the muse (2) Hermes to retrieve God Butcher (a sword the Muse stole from him, however video does not show the return of the sword)
 
-	_____ There are other features that may or may not count as advanced but is what I recall getting checked off, and is alreay around the 10 mark. 
+	- [ ]_ There are other features that may or may not count as advanced but is what I recall getting checked off, and is alreay around the 10 mark. 
 		Turing thhis game into a personal project and will have MORE FEATURE TO COME !!!!!!
