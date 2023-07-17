@@ -4,9 +4,12 @@ GT ECE 2035 (Programming for Hardware and Software Systems) Quest MMXXI FEATURE 
 
 Student Name: ___Christopher Semali___
 
-# Link to Youtube Video showcasing the Video-Game Demo: 
+## Link to Youtube Video showcasing the Video-Game Demo: 
 		
 [YouTube Video of Gameplay](https://youtu.be/spUeAvs4yvg)
+
+## Unique_11x11_Sprites_Document.pdf
+[embed]Unique_11x11_Sprites_Document.pdf
 
 ## BASIC GAME FUNCTIONALITY 
 
