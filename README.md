@@ -9,6 +9,7 @@ Student Name: ___Christopher Semali___
 [YouTube Video of Gameplay](https://youtu.be/spUeAvs4yvg)
 
 ## Sprite 2D Graphics Designs
+[Unique_11x11_Sprites_Document](https://github.com/BellLabsEra/C_CPP_RPG-Quest-Game_Academic-Project-/blob/77addc265306a16accc00662cc51c163580191d0/Unique_11x11_Sprites_Document.pdf)
 
 ![alt text](https://github.com/BellLabsEra/C_CPP_RPG-Quest-Game_Academic-Project-/blob/b903fdbf791417e8395dba219cbda51ea6eda6db/overview.png)
 ## BASIC GAME FUNCTIONALITY 
