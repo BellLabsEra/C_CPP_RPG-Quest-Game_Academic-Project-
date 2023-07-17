@@ -10,6 +10,7 @@ Student Name: ___Christopher Semali___
 
 ## Sprite 2D Graphics Designs
 
+![alt text](https://github.com/BellLabsEra/C_CPP_RPG-Quest-Game_Academic-Project-/blob/b903fdbf791417e8395dba219cbda51ea6eda6db/overview.png)
 ## BASIC GAME FUNCTIONALITY 
 
 - [x]  Accelerometer moves the player
